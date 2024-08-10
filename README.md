@@ -2,7 +2,7 @@
 A tool to get Samsung Galaxy Book exclusive apps running on any hardware.
 
 > [!NOTE]
-> The project isn't finished _yet_.
+> This project isn't finished _yet_.
 > Come back soon!
 
 > [!CAUTION]
@@ -14,6 +14,7 @@ The tool only supports the following Windows versions(or newer):
 * Windows 11 21H2
 * Windows 11 22H2
 * Windows 11 23H2
+Installing it on older versions can break your installation!
 
 ## Installation Guide
 ### Automatic Installation _(recommended)_
