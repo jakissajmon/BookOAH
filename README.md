@@ -1,6 +1,10 @@
 # BookOAH
 A tool to get Samsung Galaxy Book exclusive apps running on any hardware.
 
+> [!NOTE]
+> The project isn't finished _yet_.
+> Come back soon!
+
 > [!CAUTION]
 > I am not responsible for any damage done to your Windows installation.
 > You are doing this at your own risk.
@@ -14,7 +18,7 @@ The tool only supports the following Windows versions(or newer):
 ## Installation Guide
 ### Automatic Installation _(recommended)_
 * Download the automatic installer from the [latest release](https://github.com/jakissajmon/BookOAH/releases/latest).
-* Open the installer, customize the installation to your liking and press _BEGIN_.
+* Open the installer, customize the installation to your liking and press _Patch_.
 * Done!
 ### Manual Installation _(not recommended)_
 * Download the [setup.reg file](https://github.com/jakissajmon/BookOAH/raw/main/setup.reg) and import it into your registry.
