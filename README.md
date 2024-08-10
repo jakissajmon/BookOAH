@@ -1,5 +1,5 @@
 # BookOAH
-A tool to get Samsung Galaxy Book exclusive apps running on any hardware.
+A tool to get Samsung Galaxy Book exclusive apps running on any hardware(without modifying them).
 
 > [!NOTE]
 > This project isn't finished _yet_.
