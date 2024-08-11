@@ -14,7 +14,7 @@ The tool only supports the following Windows versions(or newer):
 * Windows 11 21H2
 * Windows 11 22H2
 * Windows 11 23H2
-Installing it on older versions can break your installation!
+> Installing it on older versions can break your installation!
 
 ## Installation Guide
 ### Automatic Installation _(recommended)_
