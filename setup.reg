@@ -1,6 +1,6 @@
-﻿Windows Registry Editor Version 5.00
-; OneUI for Windows
-; patch by jakissajmon and b4sicallyf0x
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System]
 
 [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System]
 "Component Information"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
@@ -20,6 +20,8 @@
 "Capabilities"=dword:0020c4e5
 
 [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\BIOS]
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\BIOS]
 "BaseBoardManufacturer"="SAMSUNG ELECTRONICS CO. LTD."
 "BaseBoardProduct"="NP750XED-KB3ES"
 "BaseBoardVersion"="None"
@@ -28,17 +30,3 @@
 "BIOSVersion"="P14CFG.040.231120.HQ"
 "SystemManufacturer"="SAMSUNG ELECTRONICS CO. LTD."
 "SystemProductName"="750XED"
-
-[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor]
-
-[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\0]
-"Component Information"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
-"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
-"ProcessorNameString"="12th Gen Intel(R) Core(TM) i7 1255U"
-"VendorIdentifier"="GenuineIntel"
-
-[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\1]
-"Component Information"=hex:00,00,00,00,00,00,00,00,01,00,00,00,00,00,01,00
-"Configuration Data"=hex(9):ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00
-"ProcessorNameString"="12th Gen Intel(R) Core(TM) i7 1255U"
-"VendorIdentifier"="GenuineIntel"
